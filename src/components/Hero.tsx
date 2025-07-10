@@ -14,11 +14,10 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center">
           <div className="mb-8">
-            <div className="inline-block p-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full mb-6">
-              <div className="bg-white rounded-full p-6">
-                <div className="w-24 h-24 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full flex items-center justify-center text-white text-3xl font-bold">
-                  {/* <img src="/Public/photo.png" alt="Photo" /> */}
-                  JS
+            <div className="inline-block p-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full mb-5">
+              <div className="rounded-full shadow-lg">
+                <div className="w-40 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full flex items-center justify-center text-white text-3xl font-bold">
+                  <img src="/Public/photo.png" alt="Photo" className='w-40 h-40 object-cover rounded-full'/>
                 </div>
               </div>
             </div>

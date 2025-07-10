@@ -15,11 +15,12 @@ const About = () => {
         </div>
         
         <div className="grid md:grid-cols-2 gap-12 items-center">
-          <div className="space-y-6">
-            <div className="bg-gradient-to-r from-blue-500 to-purple-500 w-64 h-64 rounded-2xl mx-auto md:mx-0 flex">
-              <img src="Public/photo.png" alt="Me" />
-            </div>
-            
+          <div className="space-y-5">
+            <div className='pb-6'>
+              <div className="bg-gradient-to-r from-blue-500 to-purple-500 w-64 h-auto rounded-2xl mx-auto md:mx-0 flex ">
+                <img src="Public/photos.png" alt="Me" className='rounded-2xl'/>
+              </div>
+            </div>          
             <div className="flex flex-wrap gap-4 justify-center md:justify-start">
               <div className="flex items-center gap-2 bg-gray-100 px-4 py-2 rounded-full">
                 <MapPin className="h-4 w-4 text-gray-600" />

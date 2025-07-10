@@ -10,17 +10,17 @@ const Experience = () => {
       period: '2025 - Present',
       description: 'Leading development of scalable web applications using Angular, .NET and SQL Server. Mentoring junior developers and implementing best practices.',
       achievements: [
-        'Increased application performance by 40%',
-        'Led a team of 5 developers',
-        'Implemented CI/CD pipelines reducing deployment time by 60%'
+        'Collaborate with cross-functional teams including design, QA, and product',
+        'Continuously learn and adapt to new technologies and tools',
+        'Participate in code reviews and follow best development practices'
       ]
     },
     {
       title: 'Trainee Full Stack Developer',
       company: 'UnicomTic',
-      location: 'San Francisco, CA',
-      period: '2020 - 2022',
-      description: 'Developed and maintained multiple web applications using modern JavaScript frameworks. Collaborated with design and product teams.',
+      location: 'affna, Sri Lanka',
+      period: '2023 - 2024',
+      description: 'Assisted in building and maintaining web applications, working closely with the team on design and development tasks.',
       achievements: [
         'Assisted in integrating SQL Server for efficient backend operations',
         'Designed and implemented RESTful APIs for seamless clientserver communication.',
@@ -31,7 +31,7 @@ const Experience = () => {
 
   const education = [
     {
-      degree: 'Bachelor of Applied Information Technology',
+      degree: 'Bachelor of Applied Information Technology (R)',
       school: 'SLTC Research University',
       location: 'Colombo, Sri Lanka',
       period: '2023 - 2026',

@@ -21,12 +21,12 @@ const Projects = () => {
       featured: true
     },
     {
-      title: 'Weather Dashboard',
-      description: 'A beautiful weather dashboard with location-based forecasts, interactive maps, and detailed weather analytics.',
+      title: 'Course Management System',
+      description: 'Developed a responsive Course Management System with Angular, .NET, and SQL Server, featuring user login, course tracking, admin panel, and email alerts.',
       image: 'https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg?auto=compress&cs=tinysrgb&w=800',
-      technologies: ['Vue.js', 'OpenWeather API', 'Chart.js', 'Tailwind'],
+      technologies: ['Angular', 'Bootstrap', 'Chart.js', 'TypeScript'],
       liveUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/Arshad-85/CourseManagementSystem_v1.git',
       featured: false
     },
     {

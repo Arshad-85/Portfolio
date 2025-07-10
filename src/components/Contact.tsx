@@ -66,7 +66,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Phone</h4>
-                  <p className="text-gray-600">+94 772784227</p>
+                  <p className="text-gray-600">+94 077-2784227</p>
                 </div>
               </div>
               
@@ -103,7 +103,7 @@ const Contact = () => {
                   <Twitter className="h-5 w-5" />
                 </a>
                 <a
-                  href="mohammedarshath339@gmail.com"
+                  href="https://www.mohammedarshath339@gmail.com"
                   className="flex items-center justify-center w-10 h-10 bg-gray-100 rounded-lg hover:bg-blue-100 hover:text-blue-600 transition-colors duration-200"
                 >
                   <MailCheck className="h-5 w-5" />
