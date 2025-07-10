@@ -17,7 +17,7 @@ const Hero = () => {
             <div className="inline-block p-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full mb-5">
               <div className="rounded-full shadow-lg">
                 <div className="w-40 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full flex items-center justify-center text-white text-3xl font-bold">
-                  <img src="/photo.png" alt="Photo" className='w-40 h-40 object-cover rounded-full'/>
+                  <img src="/public/photo.png" alt="Photo" className='w-40 h-40 object-cover rounded-full'/>
                 </div>
               </div>
             </div>
