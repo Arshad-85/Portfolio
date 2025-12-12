@@ -17,7 +17,7 @@ const Hero = () => {
             <div className="inline-block p-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full mb-5">
               <div className="rounded-full shadow-lg">
                 <div className="w-40 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full flex items-center justify-center text-white text-3xl font-bold">
-                  <img src="public/photo.png" alt="Photo" className='w-40 h-40 object-cover rounded-full'/>
+                  <img src="/Portfolio/photo.png" alt="Photo" className='w-40 h-40 object-cover rounded-full'/>
                 </div>
               </div>
             </div>
@@ -41,7 +41,7 @@ const Hero = () => {
               className="bg-gradient-to-r from-blue-500 to-purple-500 text-white px-8 py-3 rounded-full font-semibold text-lg hover:shadow-lg transform hover:scale-105 transition-all duration-200">
               View My Work
             </button>
-            <a href="public/cv.pdf" download
+            <a href="/Portfolio/cv.pdf" download
               className="flex items-center gap-2 border-2 border-gray-300 text-gray-700 px-8 py-3 rounded-full font-semibold text-lg hover:border-blue-500 hover:text-blue-500 transition-all duration-200" >
               <Download className="h-5 w-5" />
               Download CV
