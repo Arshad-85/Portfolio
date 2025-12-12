@@ -55,7 +55,7 @@ const Hero = () => {
             <a href="https://www.linkedin.com/in/mohamed-arshad-063b7a2a1/" className="text-gray-600 hover:text-blue-500 transition-colors duration-200">
               <Linkedin className="h-6 w-6" />
             </a>
-            <a href="mohammedarshath339@gmail.com" className="text-gray-600 hover:text-blue-500 transition-colors duration-200">
+            <a href="mailto:mohammedarshath339@gmail.com" className="text-gray-600 hover:text-blue-500 transition-colors duration-200">
               <Mail className="h-6 w-6" />
             </a>
             <a href="https://www.instagram.com/mr_arshad_ars/" className="text-gray-600 hover:text-blue-500 transition-colors duration-200">
