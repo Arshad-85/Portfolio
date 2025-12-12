@@ -18,7 +18,7 @@ const About = () => {
           <div className="space-y-5">
             <div className='pb-6'>
               <div className="bg-gradient-to-r from-blue-500 to-purple-500 w-64 h-auto rounded-2xl mx-auto md:mx-0 flex ">
-                <img src="Public/photos.png" alt="Me" className='rounded-2xl'/>
+                <img src="/public/photos.png" alt="Me" className='rounded-2xl'/>
               </div>
             </div>          
             <div className="flex flex-wrap gap-4 justify-center md:justify-start">
